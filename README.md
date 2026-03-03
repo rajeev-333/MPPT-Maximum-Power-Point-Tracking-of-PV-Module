@@ -95,7 +95,7 @@ The hybrid method demonstrates:
 ## 🚀 How to Run
 
 1. Clone the repository:
-git clone <your-repo-link>
+git clone <https://github.com/rajeev-333/-Hybrid-PSO-INC-Based-MPPT-for-PV-System>
 cd <Hybrid PSO–INC Based MPPT for PV System>
 
 
