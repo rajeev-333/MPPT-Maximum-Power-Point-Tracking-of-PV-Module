@@ -1,6 +1,6 @@
-# 🔆 Hybrid PSO–INC Based MPPT for PV System
+#  Hybrid PSO–INC Based MPPT for PV System
 
-## 📌 Overview
+##  Overview
 
 This project implements a **Hybrid Maximum Power Point Tracking (MPPT)** algorithm for a photovoltaic (PV) system interfaced with a **DC–DC boost converter**.
 
@@ -13,7 +13,7 @@ The hybrid approach improves tracking accuracy and reduces steady-state oscillat
 
 ---
 
-## ⚡ System Description
+##  System Description
 
 The system consists of:
 
@@ -27,7 +27,7 @@ By adjusting the duty cycle (D), the PV operating point is shifted along the P�
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Under uniform irradiance, a PV system has a single maximum power point (MPP).
 
@@ -42,7 +42,7 @@ This project addresses the limitation by:
 
 ---
 
-## 🧠 Algorithm Workflow
+##  Algorithm Workflow
 
 ### 1️⃣ Pure PSO
 - Duty cycle treated as optimization variable
@@ -61,7 +61,7 @@ This project addresses the limitation by:
 
 ---
 
-## 📊 Features
+##  Features
 
 - Multi-peak P–V curve modeling under partial shading
 - Global optimization using PSO
@@ -92,7 +92,7 @@ The hybrid method demonstrates:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
 git clone <https://github.com/rajeev-333/-Hybrid-PSO-INC-Based-MPPT-for-PV-System>
